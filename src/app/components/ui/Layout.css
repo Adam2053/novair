@@ -1,0 +1,11 @@
+
+#card-indi{
+    transition: all 0.3s ease-in-out;
+    border: none !important;
+}
+#card-indi:hover{
+    /* transform: scale(1.1); */
+    border: none !important;
+    transform: translateY(-50px) scale(1.1);
+}
+
